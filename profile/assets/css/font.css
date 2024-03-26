@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://theme.zdassets.com/theme_assets/678183/d54079a1d981f594552b197ae3abe0c1ca237cc4.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('https://theme.zdassets.com/theme_assets/678183/2014821b6a67d928be551cc53dbefb0d43bf4d90.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://theme.zdassets.com/theme_assets/678183/d8688381117f9ef89f410ebf5a25bc74ae1d3403.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: italic;
+  font-weight: 500;
+  src: url('https://theme.zdassets.com/theme_assets/678183/25964f5612874f46e1de109e4c58de26898814dc.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://theme.zdassets.com/theme_assets/678183/3c5ef450f6bbf37610f7a03ef0d634b9cca3aa83.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: italic;
+  font-weight: 600;
+  src: url('https:https://theme.zdassets.com/theme_assets/678183/cfa1e44b00b60772f9efb0a7455506589c3e5184.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://theme.zdassets.com/theme_assets/678183/a8c5dd527a4d25b4e32c8be0ecd29e8e7dcbdecb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url('https://theme.zdassets.com/theme_assets/678183/7464ad703e8b9f98b7b730f5d9760b1c8cee3487.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://theme.zdassets.com/theme_assets/678183/2edb8f0e875b2d366dc019adb45545edcaa61a54.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gg_sans';
+  font-style: italic;
+  font-weight: 800;
+  src: url('https://theme.zdassets.com/theme_assets/678183/731b73219c58a15731534933c44f770ccf29c229.woff2') format('woff2');
+}
