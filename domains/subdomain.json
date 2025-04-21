@@ -1,0 +1,11 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/eris-js/github-repository",
+    "owner": {
+        "username": "eris-js",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "eris-js.github.io"
+    }
+}
